@@ -1,4 +1,3 @@
-```markdown
 # Password Strength Checker
 
 ## Overview
@@ -104,10 +103,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to the project maintainer.
+For any questions or suggestions, feel free to reach out.
 
-Email: [your-email@example.com](mailto:your-email@example.com)  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/yourusername](https://github.com/anubhavmohandas)
 
 ---
 
@@ -124,5 +122,3 @@ Happy password strengthening! 🔒🛡️
 6. **Contributing**: Instructions for contributing to the project.
 7. **License**: Licensing details (this uses the MIT License, but feel free to update it based on your preferences).
 8. **Contact**: A section for users to contact you for questions or suggestions.
-
-Feel free to modify it to your needs!
