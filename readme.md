@@ -11,10 +11,6 @@ This **Password Strength Checker** is a Python-based graphical user interface (G
 - **Password Tips**: Provides helpful tips and guidelines for creating strong passwords.
 - **Visual Feedback**: Uses GIFs and progress bars to provide intuitive, real-time feedback on password strength.
 
-## Screenshots
-
-![Password Strength Checker](screenshots/app.png)  
-*The app shows the password input field, strength progress bar, and the tips for creating strong passwords.*
 
 ## Requirements
 
@@ -105,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to reach out.
 
-GitHub: [github.com/yourusername](https://github.com/anubhavmohandas)
+GitHub: [github.com/anubhavmohandas](https://github.com/anubhavmohandas)
 
 ---
 
@@ -115,10 +111,9 @@ Happy password strengthening! 🔒🛡️
 ### Key Highlights of the README:
 
 1. **Overview**: A brief explanation of what the app does.
-2. **Screenshots**: A place for you to add screenshots of your app (if available).
-3. **Requirements & Installation**: Clear instructions for setting up the app.
-4. **How It Works**: Details about how the password generation and strength checking work.
-5. **Features**: A breakdown of the features and functionality of the app.
-6. **Contributing**: Instructions for contributing to the project.
-7. **License**: Licensing details (this uses the MIT License, but feel free to update it based on your preferences).
-8. **Contact**: A section for users to contact you for questions or suggestions.
+2. **Requirements & Installation**: Clear instructions for setting up the app.
+3. **How It Works**: Details about how the password generation and strength checking work.
+4. **Features**: A breakdown of the features and functionality of the app.
+5. **Contributing**: Instructions for contributing to the project.
+6. **License**: Licensing details (this uses the MIT License, but feel free to update it based on your preferences).
+7. **Contact**: A section for users to contact you for questions or suggestions.
